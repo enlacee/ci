@@ -8,14 +8,10 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 
-
-# Archivos Netbeans
-###################
+# IDE netbeans
 /nbproject/*
 /user_guide/*
 
-
-# Archivos Sublime
-###################
+# IDE Sublime
 /ci.sublime-project
-ci.sublime-workspace
+/ci.sublime-workspace
